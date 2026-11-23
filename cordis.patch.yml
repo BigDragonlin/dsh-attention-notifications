@@ -1,0 +1,12 @@
+- insert:
+    - id: macos-attention-notifications
+      name: '@local/dsh-attention-notifications'
+      config:
+        onComplete: true
+        onApproval: true
+        onQuestion: true
+        includeSubagents: false
+        completionDelayMs: 800
+        completionSound: Glass
+        attentionSound: Sosumi
+        commandTimeoutMs: 10000

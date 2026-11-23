@@ -1,0 +1,6 @@
+{
+  "meta": {
+    "title": "Task attention alerts",
+    "description": "Sends a macOS notification and sound when a main-session task ends or waits for approval or an answer. Subagent alerts are optional."
+  }
+}
